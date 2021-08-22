@@ -77,5 +77,6 @@ body {
 .header{
   color: aqua;
   font-size: 3rem;
+  line-height:0.9rem;
 }
 
